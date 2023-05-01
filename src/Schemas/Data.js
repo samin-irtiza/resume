@@ -5,7 +5,7 @@ export const Data = {
     location: "Dhaka, Bangladesh",
     email: "md.saminirtiza@gmail.com",
     telephone: "+8801748052622",
-    image: "images/90208122_10222269974249078_3631065450546200576_n.jpg",
+    image: "images/passportphoto.jpg",
   },
   aboutMe: {
     label: "Profile",
